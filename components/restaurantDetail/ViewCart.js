@@ -14,12 +14,12 @@ export default function ViewCart({ navigation }) {
   );
 
   const total = items
-    .map((item) => Number(item.price.replace("$", "")))
+    .map((item) => Number(item.price.replace("GHc", "")))
     .reduce((prev, curr) => prev + curr, 0);
 
   const totalUSD = total.toLocaleString("en", {
     style: "currency",
-    currency: "USD",
+    currency: "GHc",
   });
 
   const addOrderToFireBase = () => {

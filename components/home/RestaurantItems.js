@@ -4,27 +4,27 @@ import MaterialCommunityIcons from "react-native-vector-icons/MaterialCommunityI
 
 export const localRestaurants = [
   {
-    name: "Beachside Bar",
+    name: "Papaye Restaurant",
     image_url:
-      "https://static.onecms.io/wp-content/uploads/sites/9/2020/04/24/ppp-why-wont-anyone-rescue-restaurants-FT-BLOG0420.jpg",
+      "https://scontent.facc7-1.fna.fbcdn.net/v/t1.6435-9/s960x960/151647654_3835781056482326_336521491799229571_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFeUYrzJLa_SkTPBlPV1sjRJzVaOaSerecnNVo5pJ6t50omUYs48gb4TgXaDyzDLXulrghEODd7jFB1KRnYoerM&_nc_ohc=KOANndglPtUAX86cuv-&_nc_ht=scontent.facc7-1.fna&oh=2abdca451c2baab12adf0726b8e68dd5&oe=61B929C5",
     categories: ["Cafe", "Bar"],
     price: "$$",
     reviews: 1244,
     rating: 4.5,
   },
   {
-    name: "Benihana",
+    name: "Papa's Pizza",
     image_url:
-      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudCUyMGludGVyaW9yfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "https://ghanainsider.com/wp-content/uploads/2020/03/p2.webp",
     categories: ["Cafe", "Bar"],
     price: "$$",
     reviews: 1244,
     rating: 3.7,
   },
   {
-    name: "India's Grill",
+    name: "Las Palmas Food Centre",
     image_url:
-      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudCUyMGludGVyaW9yfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "https://scontent-lis1-1.xx.fbcdn.net/v/t31.18172-8/s960x960/17493122_1663750977264658_1675274165919108478_o.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeELdd8LOiN3cSlgaHpl9rSg8KErPVk5NbDwoSs9WTk1sFgiZf0XP-j_KVLdGNRQ2EiffgwYcrynubAvLdFUzY_B&_nc_ohc=nRBlKehvGFkAX9VWpDJ&_nc_ht=scontent-lis1-1.xx&oh=e22f64018a7495f05b86d1e190f91d80&oe=61BB9023",
     categories: ["Indian", "Bar"],
     price: "$$",
     reviews: 700,
