@@ -23,12 +23,12 @@ export default function OrderCompleted() {
   );
 
   const total = items
-    .map((item) => Number(item.price.replace("$", "")))
+    .map((item) => Number(item.price.replace("GHC", "")))
     .reduce((prev, curr) => prev + curr, 0);
 
   const totalUSD = total.toLocaleString("en", {
     style: "currency",
-    currency: "USD",
+    currency: "GHc",
   });
 
   useEffect(() => {

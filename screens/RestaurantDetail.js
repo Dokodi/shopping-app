@@ -7,41 +7,41 @@ import ViewCart from "../components/restaurantDetail/ViewCart";
 
 const foods = [
   {
-    title: "Lasagna",
-    description: "With butter lettuce, tomato and sauce bechamel",
-    price: "$13.50",
+    title: "Fried Rice",
+    description: "Fried Rice with chicken and salad",
+    price: "GHc20.50",
     image:
-      "https://www.modernhoney.com/wp-content/uploads/2019/08/Classic-Lasagna-14-scaled.jpg",
+      "https://www.papayegroup.com/mcadmin/products/grill%20thigh%20rice%20no%20bg_600x325.png",
   },
   {
-    title: "Tandoori Chicken",
+    title: "Yam Fries",
     description:
-      "Amazing Indian dish with tenderloin chicken off the sizzles 🔥",
-    price: "$19.20",
-    image: "https://i.ytimg.com/vi/BKxGodX9NGg/maxresdefault.jpg",
+      "Yam fries with chicken or koobi",
+    price: "GHc19.20",
+    image: "https://www.papayegroup.com/mcadmin/products/grill%20chest%20chips%20fix%20no%20bg_600x334.png",
   },
   {
-    title: "Chilaquiles",
+    title: "Burger",
     description:
-      "Chilaquiles with cheese and sauce. A delicious mexican dish 🇲🇽",
-    price: "$14.50",
+      "Burger Bread with Cheese, Egg, burger meat, lettuce, onion and tomatoes,",
+    price: "GHc23.50",
     image:
-      "https://i2.wp.com/chilipeppermadness.com/wp-content/uploads/2020/11/Chilaquales-Recipe-Chilaquiles-Rojos-1.jpg",
+      "https://www.papayegroup.com/mcadmin/products/cheese%20egg%20burger%20no%20bg_600x482.png",
   },
   {
-    title: "Chicken Caesar Salad",
+    title: "Juice",
     description:
-      "One can never go wrong with a chicken caesar salad. Healthy option with greens and proteins!",
-    price: "$21.50",
+      "Our Juice are in three different flavours, Orange, Pineapple and Tangerine",
+    price: "GHc7.50",
     image:
-      "https://images.themodernproper.com/billowy-turkey/production/posts/2019/Easy-italian-salad-recipe-10.jpg?w=1200&h=1200&q=82&fm=jpg&fit=crop&fp-x=0.5&fp-y=0.5&dm=1614096227&s=c0f63a30cef3334d97f9ecad14be51da",
+      "https://www.papayegroup.com/mcadmin/products/juice%202017%20no%20bg%20rgb.png",
   },
   {
-    title: "Lasagna",
-    description: "With butter lettuce, tomato and sauce bechamel",
-    price: "$13.50",
+    title: "Chicken",
+    description: "Two pieces of Fried Chicken",
+    price: "GHc13.00",
     image:
-      "https://thestayathomechef.com/wp-content/uploads/2017/08/Most-Amazing-Lasagna-2-e1574792735811.jpg",
+      "https://www.papayegroup.com/mcadmin/products/2_600x364(1).png",
   },
 ];
 

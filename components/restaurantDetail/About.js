@@ -9,7 +9,7 @@ export default function About(props) {
 
   const description = `${formattedCategories} ${
     price ? " • " + price : ""
-  } • 🎫 • ${rating} ⭐ (${reviews}+)`;
+  } • 🎫 • ${rating}  (${reviews}+)`;
   return (
     <View>
       <RestaurantImage image={image} />
